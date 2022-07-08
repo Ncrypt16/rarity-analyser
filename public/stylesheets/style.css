@@ -16,9 +16,9 @@
   --white: #FFFFFF;
   --gray: var(--gray-400);
   --black: #000000;
-  --primary: #FF04B4;
+  --primary: #36e5fc;
   --primary-dark: #1D1B28;
-  --contrast: #0062F9;
+  --contrast: #3b4e6b;
   --danger: #EF4444;
   --red: #F87171;
   --semi-white: rgba(255, 255, 255, 0.2);
@@ -36,7 +36,7 @@
   --size-8: 8rem;
   --size-9: 12rem;
   --content-width: 60rem;
-  --font-family-title: 'Space Mono',monospace,-apple-system,BlinkMacSystemFont,'Segoe UI','Roboto','Oxygen','Ubuntu','Cantarell','Fira Sans','Droid Sans','Helvetica Neue',sans-serif;
+  --font-family-title: 'Caveat',cursive,-apple-system,BlinkMacSystemFont,'Segoe UI','Roboto','Oxygen','Ubuntu','Cantarell','Fira Sans','Droid Sans','Helvetica Neue',sans-serif;
   --font-family-body: Montserrat,-apple-system,BlinkMacSystemFont,'Segoe UI','Roboto','Oxygen','Ubuntu','Cantarell','Fira Sans','Droid Sans','Helvetica Neue',sans-serif;
   --font-size-xs: .409rem;
   --font-size-sm: .6875rem;
